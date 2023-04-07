@@ -2,8 +2,10 @@
 
 ## CURSED
 
-This copy of rctf has been cursed. Some instructions on how to use it with the
+This copy of rctf has been half cursed. Some instructions on how to use it with the
 install script here: ???
+
+WARNING: This code is not fully cursed and should be used with caution.
 
 [![Build Status](https://github.com/redpwn/rctf/workflows/CI/badge.svg?branch=master)](https://github.com/redpwn/rctf/actions?query=workflow%3ACI+branch%3Amaster)
 [![Code Coverage](https://img.shields.io/codecov/c/github/redpwn/rctf.svg)](https://codecov.io/github/redpwn/rctf/)
