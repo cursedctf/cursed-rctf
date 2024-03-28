@@ -3,7 +3,7 @@ import withStyles from './jss'
 const Footer = ({ classes }) => (
   <div class={classes.root}>
     <audio autoPlay loop id='musicPlay'>
-      <source src='https://blog.ammaraskar.com/assets/misc_files/keygen-boosted-lowbitrate.mp3' type='audio/mpeg' />
+      <source src='https://sourceforge.net/p/gamine-game/code/ci/master/tree/sounds/BachJSBrandenburgConcertNo2inFMajorBWV1047mvmt1.ogg?format=raw' type='audio/ogg' />
     </audio>
     <span>
       Powered by <a href='https://rctf.redpwn.net/' target='_blank' rel='noopener noreferrer'>rCTF</a>
